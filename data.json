@@ -1,0 +1,22 @@
+{
+    "places":[
+        {
+            "name": "Irene's",
+            "neighborhood": "West 6th",
+            "url": "http://irenesaustin.com/",
+            "location": [30.270023, -97.751162]
+        },
+        {
+            "name": "CENTRAL LIBRARY!!!",
+            "neighborhood": "North shore",
+            "url": "http://library.austintexas.gov",
+            "location": [30.267080, -97.749906]
+        },
+        {
+            "name": "Suerte",
+            "neighborhood": "East Austin",
+            "url": "https://www.suerteatx.com/",
+            "location": [30.263204, -97.723383]
+        }
+    ]
+}
