@@ -1,0 +1,580 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.346423, -97.676881]
+      },
+      "properties": {
+        "Name": "Buddy's Mexican Grill",
+        "Address": "9001 Cameron Rd, Austin, Texas",
+        "Cuisine Type": "Mexican",
+        "Distance - Time": 1,
+        "Comments": "\"Chipotle\" type feel, different flavor than Chipotle",
+        "Star Rating": null,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 9001,
+        "Street": "Cameron Rd",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78754,
+        "Country": "US",
+        "Source": "Capcog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.346423, -97.676881]
+      },
+      "properties": {
+        "Name": "Dominos",
+        "Address": "9001 Cameron Rd, Austin, Texas",
+        "Cuisine Type": "Pizza",
+        "Distance - Time": 1,
+        "Comments": "",
+        "Star Rating": null,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 9001,
+        "Street": "Cameron Rd",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78754,
+        "Country": "US",
+        "Source": "Capcog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.351577, -97.675743]
+      },
+      "properties": {
+        "Name": "Ken's Tacos",
+        "Address": "9408 Dessau Rd, Austin, Texas",
+        "Cuisine Type": "Mexican",
+        "Distance - Time": 2,
+        "Comments": "Giant tacos, have philly cheesesteaks too",
+        "Star Rating": null,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 9408,
+        "Street": "Dessau Rd",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78753,
+        "Country": "US",
+        "Source": "Capcog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.330673, -97.667094]
+      },
+      "properties": {
+        "Name": "Dragonbeard Kitchen",
+        "Address": "8201 Cross Park Dr, Austin, Texas",
+        "Cuisine Type": "Contemporary Asian Street Food",
+        "Distance - Time": 4,
+        "Comments": "Nice atmosphere, yummy food",
+        "Star Rating": 4,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 8201,
+        "Street": "Cross Park Dr",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78754,
+        "Country": "US",
+        "Source": "Capcog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.330673, -97.667094]
+      },
+      "properties": {
+        "Name": "Local Slice",
+        "Address": "8201 Cross Park Dr, Austin, Texas",
+        "Cuisine Type": "Pizza",
+        "Distance - Time": 4,
+        "Comments": "Cheap lunch specials",
+        "Star Rating": null,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 8201,
+        "Street": "Cross Park Dr",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78754,
+        "Country": "US",
+        "Source": "Capcog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.33433, -97.688133]
+      },
+      "properties": {
+        "Name": "Luby's",
+        "Address": "1410 E Anderson Ln, Austin, Texas",
+        "Cuisine Type": "Comfort, American",
+        "Distance - Time": 5,
+        "Comments": "",
+        "Star Rating": null,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 1410,
+        "Street": "E Anderson Ln Wb",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78753,
+        "Country": "US",
+        "Source": "Capcog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.33369, -97.687102]
+      },
+      "properties": {
+        "Name": "Wendy's",
+        "Address": "1418 E Anderson Ln, Austin, Texas",
+        "Cuisine Type": "Fast Food, American",
+        "Distance - Time": 5,
+        "Comments": "",
+        "Star Rating": null,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 1418,
+        "Street": "E Anderson Ln Wb",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78753,
+        "Country": "US",
+        "Source": "Capcog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.350792, -97.692209]
+      },
+      "properties": {
+        "Name": "Fujian Grand China Buffet",
+        "Address": "8709 N Interstate Hwy 35, Austin, Texas",
+        "Cuisine Type": "Chinese",
+        "Distance - Time": 5,
+        "Comments": "",
+        "Star Rating": null,
+        "Accuracy Score": 0.6,
+        "Accuracy Type": "rooftop",
+        "Number": 8709,
+        "Street": "35 Svrd",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78753,
+        "Country": "US",
+        "Source": "City of Austin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.322049, -97.695585]
+      },
+      "properties": {
+        "Name": "Nancy's Sky Garden",
+        "Address": "6448 E Hwy 290 A-100, Austin, Texas",
+        "Cuisine Type": "Modern Asian soups, salads, noodle, poke bowls",
+        "Distance - Time": 6,
+        "Comments": "Mateo reco",
+        "Star Rating": 4,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 6448,
+        "Street": "E Hwy 290",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78723,
+        "Country": "US",
+        "Source": "TIGER/Line® dataset from the US Census Bureau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.320504, -97.696809]
+      },
+      "properties": {
+        "Name": "Cenote-Windsor Park",
+        "Address": "6214 Cameron Rd, Austin, Texas",
+        "Cuisine Type": "French pressed coffee, farm-fresh American eats",
+        "Distance - Time": 6,
+        "Comments": "",
+        "Star Rating": null,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 6214,
+        "Street": "Cameron Rd",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78723,
+        "Country": "US",
+        "Source": "Capcog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.376741, -97.677623]
+      },
+      "properties": {
+        "Name": "Taqueria La Montana",
+        "Address": "707 E Braker Ln #201, Austin, Texas",
+        "Cuisine Type": "",
+        "Distance - Time": 7,
+        "Comments": "Kaji reco?",
+        "Star Rating": 3,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 707,
+        "Street": "E Braker Ln",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78753,
+        "Country": "US",
+        "Source": "Capcog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.343649, -97.706065]
+      },
+      "properties": {
+        "Name": "Red Lobster",
+        "Address": "109 W Anderson Ln, Austin, Texas",
+        "Cuisine Type": "Seafood",
+        "Distance - Time": 7,
+        "Comments": "",
+        "Star Rating": null,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 109,
+        "Street": "W Anderson Ln Eb",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78752,
+        "Country": "US",
+        "Source": "Capcog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.318319, -97.712239]
+      },
+      "properties": {
+        "Name": "Quality Seafood",
+        "Address": "5621 Airport Blvd, Austin, Texas",
+        "Cuisine Type": "Seafood",
+        "Distance - Time": 8,
+        "Comments": "",
+        "Star Rating": null,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 5621,
+        "Street": "Airport Blvd",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78751,
+        "Country": "US",
+        "Source": "Capcog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.198445, -97.764726]
+      },
+      "properties": {
+        "Name": "Amaya's Taco Village",
+        "Address": "5804 N IH 35 Frontage Rd, Austin, Texas",
+        "Cuisine Type": "Mexican, Tex-Mex",
+        "Distance - Time": 8,
+        "Comments": "",
+        "Star Rating": 4,
+        "Accuracy Score": 0.6,
+        "Accuracy Type": "rooftop",
+        "Number": 5804,
+        "Street": "35 Svrd",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78745,
+        "Country": "US",
+        "Source": "City of Austin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.325354, -97.707571]
+      },
+      "properties": {
+        "Name": "Vivo",
+        "Address": "6406 N Interstate Hwy 35, Austin, Texas",
+        "Cuisine Type": "Tex-Mex",
+        "Distance - Time": 9,
+        "Comments": "",
+        "Star Rating": null,
+        "Accuracy Score": 0.6,
+        "Accuracy Type": "rooftop",
+        "Number": 6406,
+        "Street": "35 Svrd",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78752,
+        "Country": "US",
+        "Source": "City of Austin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.331163, -97.715144]
+      },
+      "properties": {
+        "Name": "Arpeggio Grill",
+        "Address": "6619 Airport Blvd, Austin, Texas",
+        "Cuisine Type": "Greek centric, Mediterranean",
+        "Distance - Time": 9,
+        "Comments": "",
+        "Star Rating": null,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 6619,
+        "Street": "Airport Blvd",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78752,
+        "Country": "US",
+        "Source": "Capcog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.316939, -97.70699]
+      },
+      "properties": {
+        "Name": "P. Terrys",
+        "Address": "5701 N Interstate Hwy 35, Austin, Texas",
+        "Cuisine Type": "Local Austin burgers",
+        "Distance - Time": 9,
+        "Comments": "",
+        "Star Rating": null,
+        "Accuracy Score": 0.6,
+        "Accuracy Type": "rooftop",
+        "Number": 5701,
+        "Street": "35 Svrd",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78723,
+        "Country": "US",
+        "Source": "City of Austin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.326374, -97.771258]
+      },
+      "properties": {
+        "Name": "Japon Hibachi & Grill",
+        "Address": "6801 N Interstate Hwy, Austin, Texas",
+        "Cuisine Type": "Japanese, Sushi",
+        "Distance - Time": 10,
+        "Comments": "Good lunch specials, bento boxes are large ",
+        "Star Rating": null,
+        "Accuracy Score": 0.33,
+        "Accuracy Type": "place",
+        "Number": null,
+        "Street": "",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 73301,
+        "Country": "US",
+        "Source": "TIGER/Line® dataset from the US Census Bureau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.328564, -97.707357]
+      },
+      "properties": {
+        "Name": "Taj Palace Indian",
+        "Address": "6700 Middle Fiskville Rd, Austin, Texas",
+        "Cuisine Type": "Indian",
+        "Distance - Time": 10,
+        "Comments": "",
+        "Star Rating": null,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 6700,
+        "Street": "Middle Fiskville Rd",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78752,
+        "Country": "US",
+        "Source": "Capcog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.329813, -97.706525]
+      },
+      "properties": {
+        "Name": "Chosun Galbi",
+        "Address": "713 E Huntland Dr, Austin, Texas",
+        "Cuisine Type": "Korean",
+        "Distance - Time": 10,
+        "Comments": "",
+        "Star Rating": null,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 713,
+        "Street": "E Huntland Dr",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78752,
+        "Country": "US",
+        "Source": "Capcog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.381892, -97.686629]
+      },
+      "properties": {
+        "Name": "Peace Bakery",
+        "Address": "11220 N Lamar Blvd, Austin, Texas",
+        "Cuisine Type": "Middle Eastern deli/bakery",
+        "Distance - Time": 10,
+        "Comments": "Seyed reco",
+        "Star Rating": null,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 11220,
+        "Street": "N Lamar Blvd",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78758,
+        "Country": "US",
+        "Source": "Capcog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.336058, -97.720689]
+      },
+      "properties": {
+        "Name": "Ola Poke",
+        "Address": "6808 N Lamar Blvd, Austin, Texas",
+        "Cuisine Type": "Poke bowls, make your own bowls",
+        "Distance - Time": 11,
+        "Comments": "",
+        "Star Rating": null,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 6808,
+        "Street": "N Lamar Blvd",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78757,
+        "Country": "US",
+        "Source": "Capcog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.306355, -97.70916]
+      },
+      "properties": {
+        "Name": "Pokeatery",
+        "Address": "1201 Barbara Jordan Blvd, Austin, Texas",
+        "Cuisine Type": "California based poke",
+        "Distance - Time": 12,
+        "Comments": "",
+        "Star Rating": null,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 1201,
+        "Street": "Barbara Jordan Blvd",
+        "City": "Austin",
+        "State": "TX",
+        "County": "Travis County",
+        "Zip": 78723,
+        "Country": "US",
+        "Source": "Capcog"
+      }
+    }
+  ]
+}

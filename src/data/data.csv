@@ -1,0 +1,24 @@
+Name,Address,"Cuisine Type","Distance - Time",Comments,"Star Rating",Latitude,Longitude,"Accuracy Score","Accuracy Type",Number,Street,City,State,County,Zip,Country,Source
+"Buddy's Mexican Grill","9001 Cameron Rd, Austin, Texas",Mexican,1,"""Chipotle"" type feel, different flavor than Chipotle",,30.346423,-97.676881,1,rooftop,9001,"Cameron Rd",Austin,TX,"Travis County",78754,US,Capcog
+Dominos,"9001 Cameron Rd, Austin, Texas",Pizza,1,,,30.346423,-97.676881,1,rooftop,9001,"Cameron Rd",Austin,TX,"Travis County",78754,US,Capcog
+"Ken's Tacos","9408 Dessau Rd, Austin, Texas",Mexican,2,"Giant tacos, have philly cheesesteaks too",,30.351577,-97.675743,1,rooftop,9408,"Dessau Rd",Austin,TX,"Travis County",78753,US,Capcog
+"Dragonbeard Kitchen","8201 Cross Park Dr, Austin, Texas","Contemporary Asian Street Food",4,"Nice atmosphere, yummy food",4,30.330673,-97.667094,1,rooftop,8201,"Cross Park Dr",Austin,TX,"Travis County",78754,US,Capcog
+"Local Slice","8201 Cross Park Dr, Austin, Texas",Pizza,4,"Cheap lunch specials",,30.330673,-97.667094,1,rooftop,8201,"Cross Park Dr",Austin,TX,"Travis County",78754,US,Capcog
+Luby's,"1410 E Anderson Ln, Austin, Texas","Comfort, American",5,,,30.33433,-97.688133,1,rooftop,1410,"E Anderson Ln Wb",Austin,TX,"Travis County",78753,US,Capcog
+Wendy's,"1418 E Anderson Ln, Austin, Texas","Fast Food, American",5,,,30.33369,-97.687102,1,rooftop,1418,"E Anderson Ln Wb",Austin,TX,"Travis County",78753,US,Capcog
+"Fujian Grand China Buffet","8709 N Interstate Hwy 35, Austin, Texas",Chinese,5,,,30.350792,-97.692209,0.6,rooftop,8709,"35 Svrd",Austin,TX,"Travis County",78753,US,"City of Austin"
+"Nancy's Sky Garden","6448 E Hwy 290 A-100, Austin, Texas","Modern Asian soups, salads, noodle, poke bowls",6,"Mateo reco",4,30.322049,-97.695585,1,range_interpolation,6448,"E Hwy 290",Austin,TX,"Travis County",78723,US,"TIGER/Line® dataset from the US Census Bureau"
+"Cenote-Windsor Park","6214 Cameron Rd, Austin, Texas","French pressed coffee, farm-fresh American eats",6,,,30.320504,-97.696809,1,rooftop,6214,"Cameron Rd",Austin,TX,"Travis County",78723,US,Capcog
+"Taqueria La Montana","707 E Braker Ln #201, Austin, Texas",,7,"Kaji reco?",3,30.376741,-97.677623,1,rooftop,707,"E Braker Ln",Austin,TX,"Travis County",78753,US,Capcog
+"Red Lobster","109 W Anderson Ln, Austin, Texas",Seafood,7,,,30.343649,-97.706065,1,rooftop,109,"W Anderson Ln Eb",Austin,TX,"Travis County",78752,US,Capcog
+"Quality Seafood","5621 Airport Blvd, Austin, Texas",Seafood,8,,,30.318319,-97.712239,1,rooftop,5621,"Airport Blvd",Austin,TX,"Travis County",78751,US,Capcog
+"Amaya's Taco Village","5804 N IH 35 Frontage Rd, Austin, Texas","Mexican, Tex-Mex",8,,4,30.198445,-97.764726,0.6,rooftop,5804,"35 Svrd",Austin,TX,"Travis County",78745,US,"City of Austin"
+Vivo,"6406 N Interstate Hwy 35, Austin, Texas",Tex-Mex,9,,,30.325354,-97.707571,0.6,rooftop,6406,"35 Svrd",Austin,TX,"Travis County",78752,US,"City of Austin"
+"Arpeggio Grill","6619 Airport Blvd, Austin, Texas","Greek centric, Mediterranean",9,,,30.331163,-97.715144,1,rooftop,6619,"Airport Blvd",Austin,TX,"Travis County",78752,US,Capcog
+"P. Terrys","5701 N Interstate Hwy 35, Austin, Texas","Local Austin burgers",9,,,30.316939,-97.70699,0.6,rooftop,5701,"35 Svrd",Austin,TX,"Travis County",78723,US,"City of Austin"
+"Japon Hibachi & Grill","6801 N Interstate Hwy, Austin, Texas","Japanese, Sushi",10,"Good lunch specials, bento boxes are large ",,30.326374,-97.771258,0.33,place,,,Austin,TX,"Travis County",73301,US,"TIGER/Line® dataset from the US Census Bureau"
+"Taj Palace Indian","6700 Middle Fiskville Rd, Austin, Texas",Indian,10,,,30.328564,-97.707357,1,rooftop,6700,"Middle Fiskville Rd",Austin,TX,"Travis County",78752,US,Capcog
+"Chosun Galbi","713 E Huntland Dr, Austin, Texas",Korean,10,,,30.329813,-97.706525,1,rooftop,713,"E Huntland Dr",Austin,TX,"Travis County",78752,US,Capcog
+"Peace Bakery","11220 N Lamar Blvd, Austin, Texas","Middle Eastern deli/bakery",10,"Seyed reco",,30.381892,-97.686629,1,rooftop,11220,"N Lamar Blvd",Austin,TX,"Travis County",78758,US,Capcog
+"Ola Poke","6808 N Lamar Blvd, Austin, Texas","Poke bowls, make your own bowls",11,,,30.336058,-97.720689,1,rooftop,6808,"N Lamar Blvd",Austin,TX,"Travis County",78757,US,Capcog
+Pokeatery,"1201 Barbara Jordan Blvd, Austin, Texas","California based poke",12,,,30.306355,-97.70916,1,rooftop,1201,"Barbara Jordan Blvd",Austin,TX,"Travis County",78723,US,Capcog
